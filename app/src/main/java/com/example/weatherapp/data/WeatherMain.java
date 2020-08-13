@@ -2,7 +2,7 @@ package com.example.weatherapp.data;
 
 public class WeatherMain {
 
-    private  double temp;
+    private double temp;
     private double feels_like;
     private double pressure;
 
