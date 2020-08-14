@@ -4,6 +4,10 @@ public class Coordinate {
     private double lon;
     private double lat;
 
+    public Coordinate(){
+
+    }
+
     public double getLon() {
         return lon;
     }

@@ -2,8 +2,8 @@ package com.example.weatherapp.data;
 
 public class WeatherResponse {
 
-    private  Coordinate coord;
-    private  WeatherMain main;
+    private Coordinate coord;
+    private WeatherMain main;
 
     public WeatherMain getMain() {
         return main;
@@ -20,8 +20,5 @@ public class WeatherResponse {
     public void setCoord(Coordinate coord) {
         this.coord = coord;
     }
-
-
-
 
 }
